@@ -72,6 +72,7 @@ public class Weather {
 	}
 	public Weather() {
 		
+		
 	}
 	
 	
@@ -116,6 +117,7 @@ public class Weather {
 			weather.add(w);
 			System.out.println(weather.get(i));
 		}
+		System.out.println("ha");
 		
 	}
 }
